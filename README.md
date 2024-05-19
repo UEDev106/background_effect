@@ -1,5 +1,6 @@
 # background_effect
-This is project of JavaScript while click on button  generates random background Color 
+
+This is project of JavaScript while click on button generates random background Color
 
 <br>
-Author is ALI Raza
+Author is ALI Raza Watto
